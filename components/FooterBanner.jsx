@@ -27,7 +27,7 @@ const FooterBanner = ({footerBanner:
                 <h2>IPAD PRO</h2>
                 <h3 className='font-semibold text-4xl'>Supercharged by M2</h3>
                 <p className='font-normal text-xl mt-1 mb-2'>Price starts <span className='font-semibold'>₱55,990.00</span></p>
-                    <Link className='mt-5' type='button' href='/product/'>
+                    <Link className='mt-5' type='button' href='/product/iPad Pro Space Gray - 11-inch Wi-Fi 128GB'>
                     Buy now
                     </Link> 
             </div>
