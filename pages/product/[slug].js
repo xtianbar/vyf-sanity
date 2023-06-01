@@ -1,3 +1,5 @@
+'use client';
+
 import React, {useState} from 'react'
 import { client, urlFor } from '../../lib/client'
 import { AiOutlineMinus, AiOutlinePlus, AiFillStar, AiOutlineStar } from 'react-icons/ai'
