@@ -4,6 +4,7 @@ import { urlFor } from '../lib/client'
 import Image from 'next/image'
 import AirPodsPink from '../public/airpods_bg.png';
 import HeroBg2 from '../public/iphone-14-pro.png';
+import AppleWatch from '../public/assets/apple_watch.jpg';
 
 const HeroBanner = ({heroBanner}) => {
   return (
@@ -36,7 +37,7 @@ const HeroBanner = ({heroBanner}) => {
     </section>
     
     <div className='bg-white rounded-lg shadow-2xl px-10 py-16 mx-10 my-20 flex items-center flex-col-reverse md:hidden'>
-      <Link type='button' href='/products/hehe'>
+      <Link type='button' href='/product/AirPods Max Pink'>
         Buy now
       </Link>
       <div className='text-gray-600 mt-5 text-center mb-5'>Introducing AirPods Max — a perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods. The ultimate personal listening experience is here.</div>
@@ -58,6 +59,25 @@ const HeroBanner = ({heroBanner}) => {
         </div>
       </div>
     </div>
+    
+    <section className="bg-[#f5f5f7] text-[black] mt-20">
+        <div className="">
+            
+            <div className="flex items-center flex-col px-4">
+                <h2 className='text-6xl mt-20 font-extrabold text-[#292F36] text-center'>Apple Watch SE</h2>
+                <div className='text-gray-600 font-medium text-3xl mt-5 text-center mb-5'>41mm <span className='pride-color font-semibold'>Pride Edition</span> Sport Band - S/M</div>
+                <p className='font-normal text-xl mt-1 mb-2 text-center'><span className='font-semibold'>₱18,880</span></p>
+                    <Link className='mt-5 items-center' type='button' href='/product/Apple Watch SE - 41mm Pride Edition Sport Band S/M'>
+                    Buy now
+                    </Link> 
+            </div>
+
+            <div className="footer-image">
+                <Image src={AppleWatch} />
+            </div>  
+
+        </div>
+    </section>
     </>
   )
 }
