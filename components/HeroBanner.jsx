@@ -67,7 +67,7 @@ const HeroBanner = ({heroBanner}) => {
                 <h2 className='text-6xl mt-20 font-extrabold text-[#292F36] text-center'>Apple Watch SE</h2>
                 <div className='text-gray-600 font-medium text-3xl mt-5 text-center mb-5'>41mm <span className='pride-color font-semibold'>Pride Edition</span> Sport Band - S/M</div>
                 <p className='font-normal text-xl mt-1 mb-2 text-center'><span className='font-semibold'>₱18,880</span></p>
-                    <Link className='mt-5 items-center' type='button' href='/product/Apple Watch SE - 41mm Pride Edition Sport Band S/M'>
+                    <Link className='mt-5 items-center' type='button' href='/product/Apple Watch SE - 41mm Pride Edition Sport Band SM'>
                     Buy now
                     </Link> 
             </div>
