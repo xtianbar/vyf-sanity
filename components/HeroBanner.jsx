@@ -4,7 +4,7 @@ import { urlFor } from '../lib/client'
 import Image from 'next/image'
 import AirPodsPink from '../public/airpods_bg.png';
 import HeroBg2 from '../public/iphone-14-pro.png';
-import AppleWatch from '../public/assets/apple_watch.jpg';
+import AppleWatch from '../public/apple_watch.jpg';
 
 const HeroBanner = ({heroBanner}) => {
   return (
