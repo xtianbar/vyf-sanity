@@ -2,7 +2,7 @@
 ## KodeGo Capstone Project
 
 ## Preview
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/hero-section.png)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/hero-section.png?token=GHSAT0AAAAAACGTJLXG6YO5Z6TNIICSQL3EZH5HTJA)
 ![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/banner-1.png)
 ![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/banner-2.png)
 ![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/products-section.png)
