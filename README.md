@@ -3,14 +3,14 @@
 
 ## Preview
 ![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/hero-section.png?token=GHSAT0AAAAAACGTJLXG6YO5Z6TNIICSQL3EZH5HTJA)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/banner-1.png)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/banner-2.png)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/products-section.png)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/footer-section.png)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/product-view-selected.png)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/cart.png)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/stripe-payment.png)
-![This is an image](https://raw.githubusercontent.com/vyf_sanity/main/public/preview/success-page.png)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/banner-1.png?token=GHSAT0AAAAAACGTJLXH45GVGUV7TEP3GUEEZH5HVJA)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/banner-2.png?token=GHSAT0AAAAAACGTJLXHCS7RA6PR57OACQXGZH5HVKA)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/products-section.png?token=GHSAT0AAAAAACGTJLXHDPLCO6MH4LLT3QQKZH5HWAQ)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/footer-section.png?token=GHSAT0AAAAAACGTJLXHFQ3YFIHAJQ4XROL6ZH5HWOA)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/product-view-selected.png?token=GHSAT0AAAAAACGTJLXHXCIOCFUXQ3KJKMT4ZH5HWRA)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/cart.png?token=GHSAT0AAAAAACGTJLXGGRJNN4XIIJBCYY6YZH5HW5Q)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/stripe-payment.png?token=GHSAT0AAAAAACGTJLXGCTRY3VC5YVCFRQPIZH5HXCQ)
+![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/success-page.png?token=GHSAT0AAAAAACGTJLXHBEWKGXMJSF5HKNDYZH5HXAA)
 
 ## Github Page Link: 
 [GitHub Repo](https://github.com/wd47p-group5/vyf_sanity)
