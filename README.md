@@ -13,7 +13,7 @@
 ![This is an image](https://raw.githubusercontent.com/wd47p-group5/vyf_sanity/main/public/preview/success-page.png?token=GHSAT0AAAAAACGTJLXHBEWKGXMJSF5HKNDYZH5HXAA)
 
 ## Github Page Link: 
-[GitHub Repo](https://github.com/wd47p-group5/vyf_sanity)
+[GitHub Repo](https://github.com/xtianbar/vyf-sanity)
 [Live Link - Vercel](https://vyf-sanity.vercel.app/)
 
 ## TECHNOLOGIES
